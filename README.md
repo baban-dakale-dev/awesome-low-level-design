@@ -7,6 +7,9 @@
 
 This repository contains resources to learn Low Level Design (LLD) / Object Oriented Design (OOD) and prepare for interviews.
 
+## Currently Following
+- [Concept & Coding](https://www.youtube.com/watch?v=rliSgjoOFTs&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)
+
 ## 📌 Fundamental Concepts
 - [Basics OOP Concepts](https://blog.algomaster.io/p/basic-oop-concepts-explained-with-code)
 - [SOLID Principles with Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
@@ -15,6 +18,12 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 - [YAGNI Principle](https://blog.algomaster.io/p/8c3c7da7-885b-4a9c-a6e4-70ee02de4772)
 - [KISS Principle](https://blog.algomaster.io/p/21b57678-b351-4ed4-b390-3b6308af2f7d)
 - [Coursera - Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)
+
+## 💻 Courses
+- [Grokking The Low Level Design](https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles)
+
+## 📺 YouTube Playlist
+- [Concept & Coding](https://www.youtube.com/watch?v=rliSgjoOFTs&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)
 
 ## ⚙️ Design Patterns
 ### Creational Patterns
