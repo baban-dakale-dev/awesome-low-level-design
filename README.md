@@ -24,6 +24,7 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 
 ## 📺 YouTube Playlist
 - [Concept & Coding](https://www.youtube.com/watch?v=rliSgjoOFTs&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)
+- [SudoCode](https://www.youtube.com/watch?v=B3zrIwz_t4M&list=PLTCrU9sGybupCpY20eked6blbHI4zZ55k)
 
 ## ⚙️ Design Patterns
 ### Creational Patterns
